@@ -19,8 +19,12 @@ export default defineConfig({
 					autogenerate: { directory: 'celestial-entity' },
 				},
 				{
-					label: 'Wiki',
-					autogenerate: { directory: 'wiki' },
+					label: 'Astronomy',
+					autogenerate: { directory: 'astronomy' },
+				},
+				{
+					label: 'Science',
+					autogenerate: { directory: 'science' },
 				},
 			],
 		}),
