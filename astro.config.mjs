@@ -12,7 +12,6 @@ export default defineConfig({
       ],
 			social: {
 				github: 'https://github.com/stardoom4/alphalight',
-				raindrop: 'https://raindrop.io/Celestial-Entity/main-43067410',
 			},
 			sidebar: [
 				{
