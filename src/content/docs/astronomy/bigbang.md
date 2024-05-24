@@ -9,7 +9,7 @@ At the time of the Big Bang, the universe was extremely hot and dense, and rapid
 
 During the first few minutes after the Big Bang, a process called nucleosynthesis occurred, in which atomic nuclei were formed through the fusion of protons and neutrons. This process created the light elements hydrogen, helium, and lithium, which were later used to form the first stars and Galaxy.
 
-Over time, the expanding universe continued to cool, allowing atoms to form and the universe to become transparent to light. This moment, known as the [cosmic microwave background](/cmb/) radiation , occurred approximately 380,000 years after the Big Bang and is still detectable today.
+Over time, the expanding universe continued to cool, allowing atoms to form and the universe to become transparent to light. This moment, known as the [cosmic microwave background](/astronomy/cmb/) radiation , occurred approximately 380,000 years after the Big Bang and is still detectable today.
 
 The Big Bang theory is supported by a variety of evidence, including observations of the cosmic microwave background radiation, the abundance of light elements in the universe, and the large-scale structure of the universe.
 
