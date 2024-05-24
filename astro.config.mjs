@@ -18,6 +18,10 @@ export default defineConfig({
 					label: 'Celestial Entity',
 					autogenerate: { directory: 'celestial-entity' },
 				},
+				{
+					label: 'Wiki',
+					autogenerate: { directory: 'wiki' },
+				},
 			],
 		}),
 	],
