@@ -1,6 +1,7 @@
 ---
-title: Under the influence of the coulomb field of charge + Q charge -q is moving around it in an elliptical Orbit 
+title: Coulomb Field 1
 ---
+## Under the influence of the coulomb field of charge + Q charge -q is moving around it in an elliptical Orbit 
 **The Force:**
 
 * The positive charge (+Q) creates a Coulomb field, which is a force field that exerts a repulsive force on the negative charge (-q). 
