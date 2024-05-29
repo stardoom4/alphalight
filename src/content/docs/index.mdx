@@ -6,13 +6,10 @@ hero:
   tagline: It all returns to nothing.
   image:
     file: ../../assets/rei.webp
-  actions:
-    - text: About
-      link: /celestial-entity/wunder
-      icon: right-arrow
-      variant: primary
 tableOfContents: false
 ---
 import { Card, CardGrid } from '@astrojs/starlight/components';
 
-<Card title="WIP">This wiki is a work in progress and will always remain WIP.</Card>
+<CardGrid>
+  <LinkCard title="Enter" href="/celestial-entity/wunder" />
+</CardGrid>
